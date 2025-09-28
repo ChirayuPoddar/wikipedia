@@ -1,0 +1,82 @@
+        .nav{
+            width: 100vw;
+            height: 6vh;
+            display: flex;
+            padding-top: 15px;
+        }
+        .menu{
+            padding-top: 10px;
+            font-size: 28px;
+            margin-left: 40px;
+        }
+        .img{
+            background-image: url("https://en.wikipedia.org/static/images/icons/wikipedia.png");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+            height: 50px;
+            width: 50px;
+            margin-left: 10px;
+        }
+        .wikipedia{
+            display: flex;
+            padding-bottom: 0px;
+            margin-left: 10px;
+            font-family: serif;
+        }
+        .wikipedia h1{
+            margin: 0%;
+        }
+        .wikipedia h2{
+            margin-top: 8px;
+        }
+        .free{
+            margin-top: -25px;
+            font-size: 15px;
+            margin-left: 10px;
+        }
+        .search{
+            display: flex;
+            font-size: 17px;
+            margin-left: 30px;
+            padding-top: 13px;
+        }
+        .bi-search{
+            margin-right: 15px;
+        }
+        .search1{
+            color: #757575;
+            padding-top: 5px;
+            width: 390px;
+            border: 1px solid black;
+            font-family: sans-serif;
+            padding-left: 10px;
+        }
+        .search2{
+            font-family: sans-serif;
+            background-color: #dcd9d9;
+            width: 60px;
+            font-size: 10px;
+            border: 1px solid black;
+            border-left: 0px;
+            
+        }
+        .search2 h2{
+            margin-left: 5px;
+            margin-top: 7px;
+        }
+        .anchor{
+            display: flex;
+            margin-left: 370px;
+            padding-top: 20px;
+        }
+        .anchor div{
+            padding: 5px;
+        }
+        .b2{
+            font-size: 20px;
+        }
+        a{
+            color: rgb(14, 103, 167);
+            text-decoration: none;
+        }
